@@ -1,0 +1,28 @@
+{
+  "title": "Like A Monster",
+  "artist": "Thunder Body",
+  "notes": "In the instrumental section the chords map to the hits. It'll make sense if you listen and look at the chords. Also, the chorus is stripped down a bit- watch for it.",
+  "link": "https://vimeo.com/157149415",
+  "song": {
+    "key_sig": "E Major",
+    "sections": {
+      "prechorus" : "f#m f#m f#m A g#m f#m f#m g#m f#m",
+      "chorus": "E",
+      "verse": "E A",
+      "instrumental" : "f#m f#m f#m A g#m f#m f#m g#m f#m E A E A"
+    },
+    "layout": [
+      {"id": 1, "section": "prechorus"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "prechorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "prechorus"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "prechorus"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "instrumental"}
+
+    ]
+  }
+}

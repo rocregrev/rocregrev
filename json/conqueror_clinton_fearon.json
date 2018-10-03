@@ -1,0 +1,24 @@
+{
+  "title": "Conqueror",
+  "artist": "Clinton Fearon",
+  "notes":"This song is the same chord progression throughout. There is only one verse and it's repeated.",
+  "link": "https://www.youtube.com/watch?v=grb6vxIc9PA",
+  "song": {
+    "key_sig": "C Major",
+    "sections": {
+      "chorus": "C G",
+      "verse": "C G",
+      "instrumental" : "C G"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"}
+    ]
+  }
+}

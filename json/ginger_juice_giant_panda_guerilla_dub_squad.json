@@ -1,0 +1,26 @@
+{
+  "title": "Ginger Juice",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song only use two chords. Pay attention to section changes and you should be golden.",
+  "link": "https://www.youtube.com/watch?v=_d89EOa0yco",
+  "song": {
+    "key_sig": "A Major",
+    "sections": {
+      "hook": "bm",
+      "verse": "A bm A",
+      "instrumental": "A bm A"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "hook"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "hook"},
+      {"id": 7, "section": "instrumental"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "hook"},
+      {"id": 10, "section": "instrumental"}
+    ]
+  }
+}

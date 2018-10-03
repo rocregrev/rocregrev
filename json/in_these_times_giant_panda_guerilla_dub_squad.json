@@ -1,0 +1,32 @@
+{
+  "title": "In These Times",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song isn't exact. It's kind of hard to tell when they play DGA vs DG.",
+  "link": "https://www.youtube.com/watch?v=5iLHZit66UA",
+  "song": {
+    "key_sig": "D Major",
+    "sections": {
+      "oooh's": "D G",
+      "chorus": "D G A",
+      "verse": "D G",
+      "instrumental": "D G"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "oooh's"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "oooh's"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "verse"},
+      {"id": 10, "section": "chorus"},
+      {"id": 11, "section": "oooh's"},
+      {"id": 12, "section": "instrumental"},
+      {"id": 13, "section": "oooh's"},
+      {"id": 14, "section": "oooh's"},
+      {"id": 15, "section": "instrumental"}
+    ]
+  }
+}

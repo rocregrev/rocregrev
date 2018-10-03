@@ -1,0 +1,26 @@
+{
+  "title": "Glide",
+  "artist": "Thunder Body",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=9vmZHCB0TtU",
+  "song": {
+    "key_sig": "E Major",
+    "sections": {
+      "chorus" : "c#m g#m f#m",
+      "verse": "E A g#m f#m E",
+      "instrumental": "E A g#m f#m E"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "chorus"}
+    ]
+  }
+}

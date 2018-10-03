@@ -1,0 +1,29 @@
+{
+  "title": "The Garden",
+  "artist": "Tribal Seeds",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=gUHGzKS2dAE",
+  "song": {
+    "key_sig": "G Minor",
+    "sections": {
+      "chorus": "gm cm",
+      "verse": "gm cm",
+      "instrumental" : "gm cm",
+      "bridge": "gm cm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "bridge"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "bridge"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "instrumental"},
+      {"id": 11, "section": "verse"},
+      {"id": 12, "section": "instrumental"}
+    ]
+  }
+}

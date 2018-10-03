@@ -1,0 +1,26 @@
+{
+  "title": "What Kind Of World",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song is one progression the whole time. The breakdown at the end slightly different but uses the same chords.",
+  "link": "https://www.youtube.com/watch?v=cqqPDY5aTZw",
+  "song": {
+    "key_sig": "F Minor",
+    "sections": {
+      "chorus": "fm cm bbm cm",
+      "verse": "fm cm bbm cm",
+      "instrumental": "fm cm bbm cm",
+      "breakdown": "fm cm bbm cm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "instrumental"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "breakdown"}
+    ]
+  }
+}

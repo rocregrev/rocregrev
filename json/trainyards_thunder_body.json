@@ -1,0 +1,29 @@
+{
+  "title": "Trainyards",
+  "artist": "Thunder Body",
+  "notes": "The chorus for this song is a horn feature. The intro/outro are a melody in unison. Part of that melody is also in the end of the verse.",
+  "link": "https://vimeo.com/158099190",
+  "song": {
+    "key_sig": "D Minor",
+    "sections": {
+      "intro": "F",
+      "outro": "F",
+      "chorus": "dm F",
+      "verse": "dm F",
+      "breakdown": "gm dm"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "breakdown"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "outro"}
+
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Threaten You",
+  "artist": "Thunder Body",
+  "notes": "",
+  "link": "https://open.spotify.com/track/5Gl9Lzwu63W1UcbUbluiZP",
+  "song": {
+    "key_sig": "C Major",
+    "sections": {
+      "chorus": "C dm am",
+      "breakdown": "G am",
+      "verse": "C dm am",
+      "instrumental" : "C dm am"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "breakdown"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "breakdown"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "breakdown"}
+    ]
+  }
+}

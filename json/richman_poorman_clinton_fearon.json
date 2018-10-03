@@ -1,0 +1,28 @@
+{
+  "title": "Richman Poorman",
+  "artist": "Clinton Fearon",
+  "notes": "This is based on the solo version, not the Gladiators version (both are amazing).",
+  "link": "https://www.youtube.com/watch?v=89W4oAL7Yjs",
+  "song": {
+    "key_sig": "C Major",
+    "sections": {
+      "chorus": "C dm",
+      "chorus-end": "G",
+      "verse": "am G",
+      "instrumental" : "am G"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "chorus-end"},
+      {"id": 5, "section": "instrumental"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "chorus-end"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "instrumental"},
+      {"id": 10, "section": "verse"},
+      {"id": 11, "section": "instrumental"}
+    ]
+  }
+}
