@@ -11,17 +11,17 @@
       <hr class="my-4">
       <h3 class="display-5 font-italic text-center">Every Wednesday in January at <a href="http://www.flourcitystation.com" class="alert-link">Flour City Station</a></h3>
     </div>
-    <div class="container">
-      <div class="alert alert-info" role="alert">
-        <p class="text-center">This website should serve as a resource for the musicians involved with the event.</p>
-        <p class="text-center">If you have a problem with your music being represented here, <a href="https://github.com/tonisbones">contact me.</a></p>
-      </div>
+    <div class="alert disclaimer">
+      <p class="text-center">This website should serve as a resource for the musicians involved with the event.</p>
+      <p class="text-center">If you have a problem with your music being represented here, <a href="https://github.com/tonisbones">contact me.</a></p>
     </div>
-    <h3 class="display-6">Songs</h3>
+    <h2 class="display-5">Songs</h2>
     <div id="songs" class="list-group">
-      {% for song in song_dict %}
-      <a href="{{ song.path }}" class="list-group-item list-group-item-action">{{ song.title }} - {{ song.artist }}</a>
-      {% endfor %}
+      <div class="container">
+        {% for song in song_dict %}
+        <a href="{{ song.path }}" class="list-group-item list-group-item-action">{{ song.title }} - {{ song.artist }}</a>
+        {% endfor %}
+      </div>
     </div>
   </div>
 {% endblock %} 
