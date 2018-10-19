@@ -1,6 +1,10 @@
-{% extends "base.html" %}
+{%- extends "base.html" %}
+{%- block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="static/css/rocregrev.css">
+{%- endblock %}
 {% block title %}Home{% endblock %}
-{% block content %}
+{%- block content %}
   <div class='container'>
     <div class="jumbotron">
       <h1 class="display-4 text-dark text-center">
@@ -18,9 +22,9 @@
     <h2 class="display-5">Songs</h2>
     <div id="songs" class="list-group">
       <div class="container">
-        {% for song in song_dict %}
+        {%- for song in song_dict %}
         <a href="{{ song.path }}" class="list-group-item list-group-item-action">{{ song.title }} - {{ song.artist }}</a>
-        {% endfor %}
+        {%- endfor %}
       </div>
     </div>
   </div>

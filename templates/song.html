@@ -1,6 +1,10 @@
 {% extends "base.html" %}
-{% block title%}{{ title }} - {{ artist }}{% endblock %}
-{% block content %}
+{%- block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="../static/css/rocregrev.css">
+{% endblock %}
+{% block title %}{{ title }} - {{ artist }}{% endblock %}
+{%- block content %}
   <div class='container'>
     <div class="jumbotron">
       <h1 class="display-4">{{ title }}</h1>
@@ -15,9 +19,9 @@
         <h4 class="card-header">Sections:</h4>
         <div class="card-body">
           <ul class="list-group list-group-flush">
-            {% for section, progression in sections.items() %}
+            {%- for section, progression in sections.items() %}
             <li class="list-group-item"><p>Section: {{ section }}</p><p>Progression: {{ progression }}</p></li>
-            {% endfor %}
+            {%- endfor %}
           </ul>
         </div>
       </div>
@@ -25,9 +29,9 @@
         <h4 class="card-header">Phrase order:</h4>
         <div class="card-body">
           <ul class="list-group list-group-flush">
-            {% for phrase in layout %}
+            {%- for phrase in layout %}
             <li class="list-group-item">{{ phrase.id }}: {{ phrase.section }}</li>
-            {% endfor %}
+            {%- endfor %}
           </ul>
         </div>
       </div>
