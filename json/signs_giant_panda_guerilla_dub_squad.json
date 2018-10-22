@@ -15,11 +15,11 @@
       {"id": 1, "section": "intro"},
       {"id": 2, "section": "verse"},
       {"id": 3, "section": "chorus"},
-      {"id": 5, "section": "verse"},
-      {"id": 6, "section": "chorus"},
-      {"id": 7, "section": "verse"},
-      {"id": 8, "section": "chorus"},
-      {"id": 9, "section": "outro"}
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "outro"}
     ]
   }
 }

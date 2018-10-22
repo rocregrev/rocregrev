@@ -1,0 +1,26 @@
+{
+  "title": "Live and Travel",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song is the same progression throughout. The bass sometimes plays G am bm am in the chorus.",
+  "link": "https://www.youtube.com/watch?v=ro6tvhQuB24",
+  "song": {
+    "key_sig": "G Major",
+    "sections": {
+      "instrumental" : "G am D C",
+      "chorus": "G am D C",
+      "verse": "G am D C"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "instrumental"}
+    ]
+  }
+}
