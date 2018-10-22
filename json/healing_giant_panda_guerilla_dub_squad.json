@@ -1,0 +1,25 @@
+{
+  "title": "Healing",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=KVPITz3yec0",
+  "song": {
+    "key_sig": "F Major",
+    "sections": {
+      "chorus": "F gm",
+      "verse": "F gm",
+      "instrumental" : "F gm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "chorus"}
+    ]
+  }
+}
