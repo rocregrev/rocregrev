@@ -1,0 +1,26 @@
+{
+  "title": "Stir it Up",
+  "artist": "Bob Marley and the Wailers",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=51pxEO1HX3A",
+  "song": {
+    "key_sig": "A Major",
+    "sections": {
+      "instrumental" : "A D E",
+      "chorus": "A D E",
+      "verse": "A D E"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "instrumental"},
+      {"id": 10, "section": "chorus"}
+    ]
+  }
+}
