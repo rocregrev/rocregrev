@@ -30,7 +30,7 @@
         <div class="card-body">
           <ul class="list-group list-group-flush">
             {%- for phrase in layout %}
-            <li class="list-group-item">{{ phrase.id }}: {{ phrase.section }}</li>
+            <li class="list-group-item">{{ phrase.section }} : {{ sections[phrase.section]}}</li>
             {%- endfor %}
           </ul>
         </div>
