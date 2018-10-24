@@ -10,11 +10,11 @@
       <h1 class="display-4">{{ title }}</h1>
       <h2 class="display-5">{{ artist }}</h2>
       <hr>
-      <h1>
+      <h2>
         {%- for tag in tags %}
         <span class="badge badge-dark">{{ tag }}</span>
         {%- endfor %}
-      </h1>
+      </h2>
       <p class="text-secondary">{{ notes }}</p>
       <p><a class="btn btn-success" role="button" href="{{ link }}" target="_blank">Listen here</a></p>
     </div>
