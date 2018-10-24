@@ -3,8 +3,11 @@
   "artist": "Gregory Isaacs",
   "notes": "This song is the same progression throughout.",
   "link": "https://www.youtube.com/watch?v=K-XmNm0inyM",
+  "tags": [
+    "roots",
+    "Bb Major"
+  ],
   "song": {
-    "key_sig": "Bb Major",
     "sections": {
       "chorus": "Bb cm",
       "verse": "Bb cm",

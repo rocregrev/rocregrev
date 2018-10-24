@@ -3,8 +3,11 @@
   "artist": "Bob Marley and the Wailers",
   "notes": "This song is the same progression throughout.",
   "link": "https://www.youtube.com/watch?v=51pxEO1HX3A",
+  "tags": [
+    "roots",
+    "A Major"
+  ],
   "song": {
-    "key_sig": "A Major",
     "sections": {
       "instrumental" : "A D E",
       "chorus": "A D E",

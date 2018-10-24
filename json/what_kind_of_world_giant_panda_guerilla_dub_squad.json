@@ -3,8 +3,11 @@
   "artist": "Giant Panda Guerilla Dub Squad",
   "notes": "This song is one progression the whole time. The breakdown at the end slightly different but uses the same chords.",
   "link": "https://www.youtube.com/watch?v=cqqPDY5aTZw",
+  "tags": [
+    "american",
+    "F Minor"
+  ],
   "song": {
-    "key_sig": "F Minor",
     "sections": {
       "chorus": "fm cm bbm cm",
       "verse": "fm cm bbm cm",

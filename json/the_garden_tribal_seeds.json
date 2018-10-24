@@ -3,8 +3,11 @@
   "artist": "Tribal Seeds",
   "notes": "This song is the same progression throughout.",
   "link": "https://www.youtube.com/watch?v=gUHGzKS2dAE",
+  "tags": [
+    "american",
+    "G Minor"
+  ],
   "song": {
-    "key_sig": "G Minor",
     "sections": {
       "chorus": "gm cm",
       "verse": "gm cm",

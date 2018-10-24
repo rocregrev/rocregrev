@@ -3,8 +3,11 @@
   "artist": "Gregory Isaacs",
   "notes": "This song is the same progression throughout. The last two verses are the same lyrics.",
   "link": "https://www.youtube.com/watch?v=K6oYyG0KcvQ",
+  "tags": [
+    "roots",
+    "G Major"
+  ],
   "song": {
-    "key_sig": "G Major",
     "sections": {
       "chorus": "am G",
       "verse": "am G",

@@ -3,8 +3,11 @@
   "artist": "Thunder Body",
   "notes": "The chorus for this song is a horn feature. The intro/outro are a melody in unison. Part of that melody is also in the end of the verse.",
   "link": "https://vimeo.com/158099190",
+  "tags": [
+    "american",
+    "D Minor"
+  ],
   "song": {
-    "key_sig": "D Minor",
     "sections": {
       "intro": "F",
       "outro": "F",

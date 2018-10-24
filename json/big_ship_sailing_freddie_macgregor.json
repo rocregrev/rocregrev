@@ -3,8 +3,11 @@
   "artist": "Freddie MacGregor",
   "notes": "This song is one chord progression throughout. It has two different verses that are repeated.",
   "link": "https://www.youtube.com/watch?v=s_LN44_BKYY",
+  "tags": [
+    "roots",
+    "F Major"
+  ],
   "song": {
-    "key_sig": "F Major",
     "sections": {
       "chorus": "F gm",
       "verse": "F gm",

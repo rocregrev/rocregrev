@@ -3,8 +3,11 @@
   "artist": "Clinton Fearon",
   "notes": "This is based on the solo version, not the Gladiators version (both are amazing).",
   "link": "https://www.youtube.com/watch?v=89W4oAL7Yjs",
+  "tags": [
+    "roots",
+    "C Major"
+  ],
   "song": {
-    "key_sig": "C Major",
     "sections": {
       "chorus": "C dm",
       "chorus-end": "G",

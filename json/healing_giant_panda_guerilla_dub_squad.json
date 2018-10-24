@@ -3,8 +3,11 @@
   "artist": "Giant Panda Guerilla Dub Squad",
   "notes": "This song is the same progression throughout.",
   "link": "https://www.youtube.com/watch?v=KVPITz3yec0",
+  "tags": [
+    "american",
+    "F Major"
+  ],
   "song": {
-    "key_sig": "F Major",
     "sections": {
       "chorus": "F gm",
       "verse": "F gm",

@@ -3,8 +3,11 @@
   "artist": "Giant Panda Guerilla Dub Squad",
   "notes": "This song only use two chords. Pay attention to section changes and you should be golden.",
   "link": "https://www.youtube.com/watch?v=_d89EOa0yco",
+  "tags": [
+    "american",
+    "A Major"
+  ],
   "song": {
-    "key_sig": "A Major",
     "sections": {
       "hook": "bm",
       "verse": "A bm A",

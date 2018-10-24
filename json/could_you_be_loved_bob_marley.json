@@ -3,8 +3,11 @@
   "artist": "Bob Marley and the Wailers",
   "notes": "This song can be a little tricky but some careful listening will help significantly. Also, it seems like the recording might be tuned between b and c.",
   "link": "https://www.youtube.com/watch?v=Mm7muPjevik",
+  "tags": [
+    "roots",
+    "B Minor"
+  ],
   "song": {
-    "key_sig": "D Major / B Minor",
     "sections": {
       "break": "bm",
       "chorus": "D bm G D",

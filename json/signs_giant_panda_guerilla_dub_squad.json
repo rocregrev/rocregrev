@@ -3,8 +3,11 @@
   "artist": "Giant Panda Guerilla Dub Squad",
   "notes": "Listen for the cm's in there. You should be able to tell the difference from the recording.",
   "link": "https://www.youtube.com/watch?v=PPhGoiV6UgE",
+  "tags": [
+    "american",
+    "Ab Major"
+  ],
   "song": {
-    "key_sig": "Ab Major",
     "sections": {
       "intro" : "bbm Ab",
       "chorus": "bbm Ab",

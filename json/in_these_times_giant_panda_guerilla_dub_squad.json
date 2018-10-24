@@ -3,8 +3,11 @@
   "artist": "Giant Panda Guerilla Dub Squad",
   "notes": "This song isn't exact. It's kind of hard to tell when they play DGA vs DG.",
   "link": "https://www.youtube.com/watch?v=5iLHZit66UA",
+  "tags": [
+    "american",
+    "D Major"
+  ],
   "song": {
-    "key_sig": "D Major",
     "sections": {
       "oooh's": "D G",
       "chorus": "D G A",

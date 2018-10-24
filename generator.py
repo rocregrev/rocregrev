@@ -24,18 +24,18 @@ def generate_songs():
         song_template = template.render(
             title=song_data['title'],
             artist=song_data['artist'],
-            key_sig=song_data['song']['key_sig'],
             sections=song_data['song']['sections'],
             layout=song_data['song']['layout'],
             notes=song_data['notes'],
-            link=song_data['link']
+            link=song_data['link'],
+            tags=song_data['tags']
         )
         song_path = os.path.join(html_dir, title + ".html")
         with open(song_path, 'w') as new_html:
             new_html.write(song_template)
         new_html.close()
         
-        song_dict.append({ 'path': os.path.join("songs", (title + '.html')), 'title': song_data['title'], 'artist': song_data['artist'] })
+        song_dict.append({ 'path': os.path.join("songs", (title + '.html')), 'title': song_data['title'], 'artist': song_data['artist'], 'tags': song_data['tags'] })
 
     return song_dict
 

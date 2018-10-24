@@ -3,8 +3,11 @@
   "artist": "Thunder Body",
   "notes": "",
   "link": "https://open.spotify.com/track/5Gl9Lzwu63W1UcbUbluiZP",
+  "tags": [
+    "american",
+    "C Major"
+  ],
   "song": {
-    "key_sig": "C Major",
     "sections": {
       "chorus": "C dm am",
       "breakdown": "G am",

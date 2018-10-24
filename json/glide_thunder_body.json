@@ -3,8 +3,11 @@
   "artist": "Thunder Body",
   "notes": "",
   "link": "https://www.youtube.com/watch?v=9vmZHCB0TtU",
+  "tags": [
+    "american",
+    "E Major"
+  ],
   "song": {
-    "key_sig": "E Major",
     "sections": {
       "chorus" : "c#m g#m f#m",
       "verse": "E A g#m f#m E",

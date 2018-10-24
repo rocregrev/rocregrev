@@ -3,8 +3,11 @@
   "artist": "Thunder Body",
   "notes": "",
   "link": "https://vimeo.com/158685284",
+  "tags": [
+    "american",
+    "F Major"
+  ],
   "song": {
-    "key_sig": "F Major",
     "sections": {
       "preverse" : "F Bb",
       "verse": "dm gm F gm F gm dm gm",

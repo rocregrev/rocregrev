@@ -3,8 +3,11 @@
   "artist": "Bob Marley and the Wailers",
   "notes": "",
   "link": "https://www.youtube.com/watch?v=zaGUr6wzyT8",
+  "tags": [
+    "roots",
+    "A Major"
+  ],
   "song": {
-    "key_sig": "A Major",
     "sections": {
       "intro" : "A",
       "chorus": "A D A",
