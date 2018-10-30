@@ -3,7 +3,7 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 import json
 import os
 
-env = Environment(loader=PackageLoader(__name__, 'templates'), autoescape=select_autoescape(['html', 'xml']))
+env = Environment(loader=PackageLoader(__name__, 'templates'), autoescape=select_autoescape(['html', 'xml']), trim_blocks=True, lstrip_blocks=True)
 json_dir = 'json'
 html_dir = 'songs'
 index_fname = 'index.html'

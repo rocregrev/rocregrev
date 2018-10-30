@@ -1,19 +1,19 @@
-{%- extends "base.html" %}
-{%- block head %}
+{% extends "base.html" %}
+{% block head %}
   {{ super() }}
   <link rel="stylesheet" href="../static/css/rocregrev.css">
-{%- endblock %}
+{% endblock %}
 {% block title %}{{ title }} - {{ artist }}{% endblock %}
-{%- block content %}
+{% block content %}
   <div class='container'>
     <div class="jumbotron">
       <h1 class="display-4">{{ title }}</h1>
       <h2 class="display-5">{{ artist }}</h2>
       <hr>
       <h2>
-        {%- for tag in tags %}
+        {% for tag in tags %}
         <span class="badge badge-dark">{{ tag }}</span>
-        {%- endfor %}
+        {% endfor %}
       </h2>
       <p class="text-secondary">{{ notes }}</p>
       <p><a class="btn btn-success" role="button" href="{{ link }}" target="_blank">Listen here</a></p>
@@ -23,9 +23,9 @@
         <h4 class="card-header">Sections:</h4>
         <div class="card-body">
           <ul class="list-group list-group-flush">
-            {%- for section, progression in sections.items() %}
+            {% for section, progression in sections.items() %}
             <li class="list-group-item"><p>Section: {{ section }}</p><p>Progression: {{ progression }}</p></li>
-            {%- endfor %}
+            {% endfor %}
           </ul>
         </div>
       </div>
@@ -33,12 +33,12 @@
         <h4 class="card-header">Phrase order:</h4>
         <div class="card-body">
           <ul class="list-group list-group-flush">
-            {%- for phrase in layout %}
-            <li class="list-group-item">{{ phrase.section }} : {{ sections[phrase.section]}}</li>
-            {%- endfor %}
+            {% for phrase in layout %}
+            <li class="list-group-item">{{ phrase.section }}: {{ sections[phrase.section]}}</li>
+            {% endfor %}
           </ul>
         </div>
       </div>
     </div>
   </div>
-{%- endblock %}
+{% endblock %}
