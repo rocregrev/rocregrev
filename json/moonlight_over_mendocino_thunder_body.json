@@ -10,7 +10,7 @@
   "song": {
     "sections": {
       "preverse" : "F Bb",
-      "verse": "dm gm F gm F gm dm gm",
+      "verse": "dm gm F gm | F gm dm gm",
       "instrumental" : "dm gm"
     },
     "layout": [

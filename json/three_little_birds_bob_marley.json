@@ -11,7 +11,7 @@
     "sections": {
       "intro" : "A",
       "chorus": "A D A",
-      "verse": "A E A D A E D A"
+      "verse": "A E A D | A E D A"
     },
     "layout": [
       {"id": 1, "section": "intro"},
