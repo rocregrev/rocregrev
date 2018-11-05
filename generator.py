@@ -34,7 +34,7 @@ def generate_songs():
         with open(song_path, 'w') as new_html:
             new_html.write(song_template)
         new_html.close()
-        
+
         song_dict.append({ 'path': os.path.join("songs", (title + '.html')), 'title': song_data['title'], 'artist': song_data['artist'], 'tags': song_data['tags'] })
 
     return song_dict
