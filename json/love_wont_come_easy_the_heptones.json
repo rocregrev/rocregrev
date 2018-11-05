@@ -1,0 +1,34 @@
+{
+  "title": "Love Won't Come Easy",
+  "artist": "The Heptones",
+  "notes": "",
+  "link": "https://open.spotify.com/track/6S4vm2eZk6m6Awy1Rziizi",
+  "tags": [
+    "Roots",
+    "D Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "D em",
+      "bridge": "bm A | bm A | bm A | f#m A",
+      "verse": "D em",
+      "instrumental" : "D em"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "bridge"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "bridge"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "bridge"},
+      {"id": 10, "section": "instrumental"},
+      {"id": 11, "section": "chorus"},
+      {"id": 12, "section": "bridge"},
+      {"id": 13, "section": "instrumental"},
+      {"id": 14, "section": "chorus"}
+    ]
+  }
+}
