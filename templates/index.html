@@ -29,12 +29,12 @@
               <div class="card-body">
                 <h4 class="card-title">{{ song.title }}</h4>
                 <h5 class="card-subtitle mb-2 text-muted"><em>{{ song.artist }}</em></h5>
-                <p class="card-text">
+                <div class="card-text">
                   {% for tag in song.tags %}
                   <span class="badge badge-dark">{{ tag }}</span>
                   {% endfor %}
-                </p>
-                <a href="{{ song.path }}" class="btn btn-outline-success">Details</a>
+                  <a href="{{ song.path }}" class="btn btn-outline-success float-right">Details</a>
+                </div>
               </div>
             </div>
           </div>
