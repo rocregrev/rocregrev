@@ -1,0 +1,30 @@
+{
+  "title": "What's Sweet About Lemons",
+  "artist": "Thunder Body",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=uBcvxu3o9Ss",
+  "tags": [
+    "American",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "C F",
+      "bridge": "dm C | dm C G",
+      "verse": "C am",
+      "instrumental": "dm C"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "instrumental"}
+    ]
+  }
+}
