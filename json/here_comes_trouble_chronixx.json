@@ -1,0 +1,31 @@
+{
+  "title": "Here Comes Trouble",
+  "artist": "Chronixx",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=LfeIfiiBTfY",
+  "tags": [
+    "Roots",
+    "D Minor"
+  ],
+  "song": {
+    "sections": {
+      "instrumental": "dm am",
+      "chorus": "dm am",
+      "verse": "dm am",
+      "bridge": "dm am"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "bridge"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "bridge"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "verse"},
+      {"id": 10, "section": "chorus"}
+
+    ]
+  }
+}
