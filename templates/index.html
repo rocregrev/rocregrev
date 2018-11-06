@@ -19,19 +19,27 @@
       <p class="text-center">This website should serve as a resource for the musicians involved with the event.</p>
       <p class="text-center">If you have a problem with your music being represented here, <a href="https://github.com/tonisbones">contact me.</a></p>
     </div>
-    <h2 class="display-5">Songs</h2>
+    <h3 class="display-5">Song Candidates</h2>
     <div id="songs" class="list-group">
       <div class="container">
-        {% for song in song_dict %}
-        <div>
-          <a href="{{ song.path }}" class="list-group-item list-group-item-action">
-            {{ song.title }} - {{ song.artist }}
-            {% for tag in song.tags %}
-            <span class="badge badge-dark">{{ tag }}</span>
-            {% endfor %}
-          </a>
+        <div class="row">
+          {% for song in song_dict %}
+          <div class="col-md-4">
+            <div class="card song-card">
+              <div class="card-body">
+                <h4 class="card-title">{{ song.title }}</h4>
+                <h5 class="card-subtitle mb-2 text-muted"><em>{{ song.artist }}</em></h5>
+                <p class="card-text">
+                  {% for tag in song.tags %}
+                  <span class="badge badge-dark">{{ tag }}</span>
+                  {% endfor %}
+                </p>
+                <a href="{{ song.path }}" class="btn btn-outline-success">Details</a>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
         </div>
-        {% endfor %}
       </div>
     </div>
   </div>
