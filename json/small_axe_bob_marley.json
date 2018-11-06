@@ -1,0 +1,29 @@
+{
+  "title": "Small Axe",
+  "artist": "Bob Marley and the Wailers",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=WJJeLFvYsT0",
+  "tags": [
+    "Roots",
+    "Bb Major"
+  ],
+  "song": {
+    "sections": {
+      "intro" : "Eb Bb F Bb",
+      "chorus": "Eb Bb F Bb",
+      "verse": "Eb Bb F",
+      "instrumental": "Eb Bb F"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "chorus"}
+    ]
+  }
+}
