@@ -27,8 +27,8 @@
           <div class="col-md-4">
             <div class="card song-card">
               <div class="card-body">
-                <h4 class="card-title">{{ song.title }}</h4>
-                <h5 class="card-subtitle mb-2 text-muted"><em>{{ song.artist }}</em></h5>
+                <h4 class="card-title text-truncate">{{ song.title }}</h4>
+                <h5 class="card-subtitle mb-2 text-muted text-truncate"><em>{{ song.artist }}</em></h5>
                 <div class="card-text">
                   {% for tag in song.tags %}
                   <span class="badge badge-dark">{{ tag }}</span>
