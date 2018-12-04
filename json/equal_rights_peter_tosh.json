@@ -1,0 +1,37 @@
+{
+  "title": "Equal Rights",
+  "artist": "Peter Tosh",
+  "notes": "This song repeats verse->bridge->chorus over and over.",
+  "link": "https://www.youtube.com/watch?v=iqeOTg2a-l8",
+  "tags": [
+    "Roots",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "G C",
+      "verse": "G am C D G",
+      "intro": "G am C D G",
+      "bridge" : "C D"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "bridge"},
+      {"id": 10, "section": "chorus"},
+      {"id": 11, "section": "verse"},
+      {"id": 12, "section": "bridge"},
+      {"id": 13, "section": "chorus"},
+      {"id": 14, "section": "verse"},
+      {"id": 15, "section": "bridge"},
+      {"id": 16, "section": "chorus"},
+      {"id": 17, "section": "chorus"}
+    ]
+  }
+}
