@@ -1,0 +1,31 @@
+{
+  "title": "By Design",
+  "artist": "Dubbest",
+  "notes":"This song is the same chord progression throughout.",
+  "link": "https://www.youtube.com/watch?v=uQXPaeKpndk",
+  "tags": [
+    "American",
+    "B Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "F# E F#",
+      "verse": "F# E F#",
+      "bridge": "F# E F#",
+      "instrumental" : "F# E F#"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "bridge"},
+      {"id": 10, "section": "chorus"},
+      {"id": 11, "section": "instrumental"}
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "title": "Spend the Day",
+  "artist": "Dubbest",
+  "notes":"This song is the same chord progression throughout. 'Bridge' starts with 'I'm sick of the rain..'.",
+  "link": "https://www.youtube.com/watch?v=0fmQ9oEkE-s",
+  "tags": [
+    "American",
+    "Db Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "Db ebm",
+      "verse": "Db ebm",
+      "bridge": "Db ebm",
+      "instrumental" : "Db ebm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "bridge"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "bridge"},
+      {"id": 9, "section": "chorus"}
+    ]
+  }
+}
