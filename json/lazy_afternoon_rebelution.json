@@ -1,0 +1,27 @@
+{
+  "title": "Lazy Afternoon",
+  "artist": "Rebelution",
+  "notes": "This song has the same progression throughout.",
+  "link": "https://open.spotify.com/track/5JmJVj3qLsCnBsQ8IC9XLf",
+  "tags": [
+    "American",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "G am bm am",
+      "verse": "G am bm am",
+      "instrumental": "G am bm am",
+      "bridge" : "G am bm am"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "chorus"}
+    ]
+  }
+}
