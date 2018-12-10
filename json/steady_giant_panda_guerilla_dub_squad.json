@@ -1,0 +1,29 @@
+{
+  "title": "Steady",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=MD9DBV--xUM",
+  "tags": [
+    "American",
+    "Db Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "Db Ab ebm",
+      "instrumental": "Db Ab ebm",
+      "verse": "Db Ab ebm",
+      "breakdown" : "ebm Db | ebm Db Ab"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "breakdown"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "instrumental"}
+    ]
+  }
+}
