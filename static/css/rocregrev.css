@@ -1,9 +1,23 @@
+html, body {
+  font-family: 'Source Sans Pro', 'Open Sans', sans-serif;
+}
 .foot {
   padding: 25px;
 }
 .disclaimer {
-  background-color: #cfe2a3;
+  background-color: #e2f4b5;
 }
 .bold {
   font-weight: bold;
+}
+.card {
+  background-color: #f9f9f9;
+  margin: 3px;
+}
+.list-group-item {
+  background-color: #f9f9f9;
+}
+
+.card-subtitle {
+  line-height: normal;
 }
