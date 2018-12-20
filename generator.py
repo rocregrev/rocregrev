@@ -37,7 +37,8 @@ def generate_songs():
 
         song_dict.append({ 'path': os.path.join("songs", (title + '.html')), 'title': song_data['title'], 'artist': song_data['artist'], 'tags': song_data['tags'] })
 
-    return song_dict
+    sorted_song_dict = sorted(song_dict, key=lambda x: (x['artist'], x['title']));
+    return sorted_song_dict
 
 def generate_index(song_dict):
     template = env.get_template(index_fname)
