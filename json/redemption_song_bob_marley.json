@@ -1,0 +1,34 @@
+{
+  "title": "Redemption Song",
+  "artist": "Bob Marley and the Wailers",
+  "notes": "The last chorus is extended and repeats the em C D part.",
+  "link": "https://www.youtube.com/watch?v=QrY9eHkXTa4",
+  "tags": [
+    "Roots",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "break": "em C D",
+      "intro": "G C G C",
+      "chorus": "G C D | G C D | em C D | G C D | G C D",
+      "bridge": "D D7",
+      "outro": "em D",
+      "verse": "G em C am | G em C D"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "break"},
+      {"id": 9, "section": "verse"},
+      {"id": 10, "section": "bridge"},
+      {"id": 11, "section": "chorus"},
+      {"id": 12, "section": "outro"}
+    ]
+  }
+}
