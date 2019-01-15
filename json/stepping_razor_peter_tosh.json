@@ -1,0 +1,36 @@
+{
+  "title": "Stepping Razor",
+  "artist": "Peter Tosh",
+  "notes": "The song alternates between chorus and verse with many repetitions.",
+  "link": "https://www.youtube.com/watch?v=aLJFRgE4Ywk",
+  "tags": [
+    "Roots",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "Bb G",
+      "verse": "C G",
+      "intro": "Bb G"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "verse"},
+      {"id": 11, "section": "chorus"},
+      {"id": 12, "section": "verse"},
+      {"id": 13, "section": "chorus"},
+      {"id": 14, "section": "verse"},
+      {"id": 15, "section": "chorus"},
+      {"id": 16, "section": "verse"},
+      {"id": 17, "section": "chorus"}
+    ]
+  }
+}
