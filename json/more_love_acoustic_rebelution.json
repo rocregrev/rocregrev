@@ -12,8 +12,7 @@
       "chorus": "D C",
       "intro": "em am | em am | C D | C D",
       "verse": "D C",
-      "instrumental": "D C",
-      "bridge" : "G am bm am"
+      "instrumental": "D C"
     },
     "layout": [
       {"id": 1, "section": "intro"},
