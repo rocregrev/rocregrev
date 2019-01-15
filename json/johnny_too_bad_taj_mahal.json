@@ -1,0 +1,26 @@
+{
+  "title": "Johnny Too Bad",
+  "artist": "Taj Mahal",
+  "notes": "This song has two progressions that alternate.",
+  "link": "https://www.youtube.com/watch?v=oEdcoaCukH4",
+  "tags": [
+    "American",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "C D G",
+      "verse": "G D C G",
+      "instrumental": "G D C G | G D C G | C D G | C D G"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"}
+    ]
+  }
+}
