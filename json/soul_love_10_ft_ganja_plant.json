@@ -1,0 +1,28 @@
+{
+  "title": "Soul Love",
+  "artist": "10 Ft. Ganja Plant",
+  "notes": "The bridge part refers to the harmonica feature that happens after the chorus.",
+  "link": "https://www.youtube.com/watch?v=eruFecqza8U",
+  "tags": [
+    "American",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "C F C G",
+      "verse": "C am F G",
+      "bridge": "C am F G",
+      "outro": "C am F G",
+      "instrumental" : "C F C G"
+    },
+    "layout": [
+      {"id": 1, "section": "bridge"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "bridge"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "instrumental"}
+    ]
+  }
+}
