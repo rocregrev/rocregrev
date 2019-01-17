@@ -1,0 +1,30 @@
+{
+  "title": "Come Let Go",
+  "artist": "Xavier Rudd",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=AHEkA5JzIbc",
+  "tags": [
+    "American",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "G D em C",
+      "verse": "G D em C",
+      "instrumental": "G D em C"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "verse"},
+      {"id": 10, "section": "chorus"},
+      {"id": 11, "section": "instrumental"}
+    ]
+  }
+}
