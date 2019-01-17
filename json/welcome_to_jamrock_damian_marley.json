@@ -15,7 +15,7 @@
       "instrumental" : "gm F"
     },
     "layout": [
-      {"id": 1, "section": "break"},
+      {"id": 1, "section": "intro"},
       {"id": 2, "section": "verse"},
       {"id": 3, "section": "break"},
       {"id": 4, "section": "verse"},
