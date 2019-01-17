@@ -1,0 +1,28 @@
+{
+  "title": "Pockets",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "This song is the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=NbIruQinX6s",
+  "tags": [
+    "American",
+    "G Minor"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "gm dm cm",
+      "verse": "gm dm cm",
+      "instrumental" : "gm dm cm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "instrumental"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "instrumental"}
+    ]
+  }
+}
