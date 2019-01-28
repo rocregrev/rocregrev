@@ -1,0 +1,34 @@
+{
+  "title": "High Grade",
+  "artist": "John Brown's Body",
+  "notes": "The verse normally ends with the riff. 'riff' and 'trans-to-break' consist of the order of the notes played.",
+  "link": "https://www.youtube.com/watch?v=Sj7cn_VFh30",
+  "tags": [
+    "American",
+    "G minor"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "gm gm gm gm | gm gm gm F | gm gm gm gm | gm gm F F",
+      "verse": "gm gm gm gm | gm gm gm F | gm gm gm gm | gm gm F F",
+      "instrumental": "gm gm gm gm | gm gm gm F | gm gm gm gm | gm gm F F",
+      "riff": "G Bb C D F G",
+      "trans-to-break": "G Bb C C# D Bb C",
+      "breakdown" : "cm cm cm cm | cm cm dm dm"
+    },
+    "layout": [
+      {"id": 1, "section": "riff"},
+      {"id": 2, "section": "instrumental"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "riff"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "riff"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "trans-to-break"},
+      {"id": 10, "section": "breakdown"},
+      {"id": 11, "section": "verse"},
+      {"id": 12, "section": "chorus"}
+    ]
+  }
+}
