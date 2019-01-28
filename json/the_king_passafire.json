@@ -1,0 +1,29 @@
+{
+  "title": "The King",
+  "artist": "Passafire",
+  "notes": "The progression for the chucks in the verse is listed in the 'chucks' section.",
+  "link": "https://www.youtube.com/watch?v=Wn3de9xOSz0",
+  "tags": [
+    "American",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "D em A bm",
+      "verse": "am C | G F em | G G F em | F F em dm C",
+      "instrumental": "am C | G F em | G G F em | F F em dm C",
+      "chucks(verse)": "am C | G em | G em | F C",
+      "breakdown" : "G em f#m | G em bm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "breakdown"},
+      {"id": 8, "section": "instrumental"}
+    ]
+  }
+}
