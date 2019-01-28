@@ -1,0 +1,38 @@
+{
+  "title": "Traveling Man",
+  "artist": "John Brown's Body",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=I_kT4EHd6ec",
+  "tags": [
+    "American",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "C dm am C dm",
+      "instrumental": "dm G dm C dm",
+      "verse": "dm G dm C dm",
+      "intro": "dm G dm C dm",
+      "ooo's": "dm G dm C dm",
+      "breakdown" : "dm G dm C dm"
+    },
+    "layout": [
+      {"id": 1, "section": "intro"},
+      {"id": 2, "section": "instrumental"},
+      {"id": 3, "section": "ooo's"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "instrumental"},
+      {"id": 10, "section": "ooo's"},
+      {"id": 11, "section": "breakdown"},
+      {"id": 12, "section": "chorus"},
+      {"id": 13, "section": "chorus"},
+      {"id": 14, "section": "instrumental"},
+      {"id": 15, "section": "ooo's"},
+      {"id": 16, "section": "instrumental"}
+    ]
+  }
+}

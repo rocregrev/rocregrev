@@ -1,0 +1,27 @@
+{
+  "title": "Badman",
+  "artist": "John Brown's Body",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=KWCV0KbSaAY",
+  "tags": [
+    "American",
+    "Bb Minor"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "bbm bbm ebm ebm | ebm F bbm bbm",
+      "verse": "bbm bbm ebm ebm | ebm F bbm bbm",
+      "instrumental": "bbm bbm ebm ebm | ebm F bbm bbm",
+      "breakdown" : "ebm bbm | ebm bbm | ebm bbm | ebm F"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "breakdown"},
+      {"id": 5, "section": "instrumental"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "chorus"}
+    ]
+  }
+}

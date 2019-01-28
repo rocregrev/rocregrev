@@ -1,0 +1,28 @@
+{
+  "title": "Alone Again",
+  "artist": "Spiritual Rez",
+  "notes": "The verse has three phrases. There's basically 2 progressions but they swap back and forth.",
+  "link": "https://www.youtube.com/watch?v=KRFHP0rMpb4",
+  "tags": [
+    "American",
+    "Ab Major"
+  ],
+  "song": {
+    "sections": {
+      "instrumental" : "Ab Db fm Db",
+      "chorus": "Ab cm Db Ab | Ab Db fm Db",
+      "verse": "Ab Db fm Db | Ab cm Db Ab",
+      "break" : "bbm Ab"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "break"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"}
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Missing You More",
+  "artist": "Giant Panda Guerilla Dub Squad",
+  "notes": "Still need to figure out the intro/outro.",
+  "link": "https://www.youtube.com/watch?v=zKKjY3_Agyo",
+  "tags": [
+    "American",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "bridge": "em",
+      "intro/outro": "TBD",
+      "verse": "am dm",
+      "chorus": "am dm",
+      "break": "am dm",
+      "instrumental": "am dm"
+    },
+    "layout": [
+      {"id": 1, "section": "intro/outro"},
+      {"id": 2, "section": "instrumental"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "verse"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "breakdown"},
+      {"id": 10, "section": "bridge"},
+      {"id": 11, "section": "instrumental"},
+      {"id": 12, "section": "bridge"},
+      {"id": 13, "section": "intro/outro"}
+    ]
+  }
+}
