@@ -9,9 +9,9 @@
   ],
   "song": {
     "sections": {
-      "chorus": "Db Ab ebm",
-      "instrumental": "Db Ab ebm",
-      "verse": "Db Ab ebm",
+      "chorus": "Db fm ebm",
+      "instrumental": "Db fm ebm",
+      "verse": "Db fm ebm",
       "breakdown" : "ebm Db | ebm Db Ab"
     },
     "layout": [
