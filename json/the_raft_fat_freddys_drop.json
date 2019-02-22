@@ -1,0 +1,30 @@
+{
+  "title": "The Raft",
+  "artist": "Fat Freddy's Drop",
+  "notes": "This song is the same progression throughout. The song continues on with 'instrumental' for a while at the end.",
+  "link": "https://www.youtube.com/watch?v=Knv2ldYclpg",
+  "tags": [
+    "Fusion",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "am dm am G",
+      "verse": "am dm am G",
+      "break": "am dm am G",
+      "instrumental" : "am dm am G"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "instrumental"},
+      {"id": 6, "section": "instrumental"},
+      {"id": 7, "section": "break"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "verse"},
+      {"id": 10, "section": "instrumental"}
+    ]
+  }
+}
