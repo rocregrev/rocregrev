@@ -1,0 +1,30 @@
+{
+  "title": "So True",
+  "artist": "The Black Seeds",
+  "notes": "I play the main riff as Gmaj7 amin7.",
+  "link": "",
+  "tags": [
+    "American",
+    "G Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "G am",
+      "verse": "G am",
+      "instrumental": "G am",
+      "bridge" : "G F em F"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "bridge"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "bridge"},
+      {"id": 8, "section": "instrumental"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "bridge"}
+    ]
+  }
+}

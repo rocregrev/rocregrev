@@ -1,0 +1,32 @@
+{
+  "title": "Good Day",
+  "artist": "Rebelution",
+  "notes": "",
+  "link": "https://www.youtube.com/watch?v=KTfxcczuQjQ",
+  "tags": [
+    "American",
+    "Ab Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "Ab bbm Ab bbm | Ab bbm cm bbm",
+      "bridge": "Ab bbm Ab bbm | Ab bbm cm bbm",
+      "verse": "Ab bbm Ab bbm |  Ab bbm cm bbm",
+      "instrumental": "Ab bbm Ab bbm | Ab bbm cm bbm",
+      "breakdown" : "Eb Ab Eb Ab | bbm cm bbm cm bbm"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "bridge"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "instrumental"},
+      {"id": 6, "section": "verse"},
+      {"id": 7, "section": "bridge"},
+      {"id": 8, "section": "chorus"},
+      {"id": 9, "section": "breakdown"},
+      {"id": 10, "section": "chorus"},
+      {"id": 11, "section": "instrumental"}
+    ]
+  }
+}
