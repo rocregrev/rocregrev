@@ -1,0 +1,26 @@
+{
+  "title": "I'm a Fool",
+  "artist": "The Skints",
+  "notes": "This one's a bit tricky but super fun to play",
+  "link": "https://www.youtube.com/watch?v=T1Wtdxqs880",
+  "tags": [
+    "British",
+    "Eb Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "Eb Ab Eb | Eb Ab Bb | Eb Eb7 Ab Abm | Eb Bb Eb Bb Eb",
+      "verse": "Ab gm fm Bb Eb | Ab gm fm Eb",
+      "outro": "Eb Ab"
+    },
+    "layout": [
+      {"id": 1, "section": "chorus"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "outro"}
+    ]
+  }
+}

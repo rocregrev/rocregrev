@@ -1,0 +1,26 @@
+{
+  "title": "Love is the Devil",
+  "artist": "The Skints",
+  "notes": "This song has the same progression throughout.",
+  "link": "https://www.youtube.com/watch?v=C6dbcELxbHM",
+  "tags": [
+    "British",
+    "D Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "em D",
+      "verse": "em D",
+      "instrumental": "em D"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "chorus"},
+      {"id": 3, "section": "verse"},
+      {"id": 4, "section": "chorus"},
+      {"id": 5, "section": "verse"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"}
+    ]
+  }
+}
