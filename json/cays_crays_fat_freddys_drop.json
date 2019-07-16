@@ -1,0 +1,25 @@
+{
+  "title": "Cay's Crays",
+  "artist": "Fat Freddy's Drop",
+  "notes": "This song is the same progression throughout. There isn't much phrase repetition and most of the song is verse.",
+  "link": "https://www.youtube.com/watch?v=SveqAY9tZ24",
+  "tags": [
+    "NZ",
+    "B Minor"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "bm em f#m",
+      "verse": "bm em f#m",
+      "breakdown": "bm em f#m",
+      "instrumental" : "bm em f#m"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "breakdown"},
+      {"id": 5, "section": "instrumental"}
+    ]
+  }
+}
