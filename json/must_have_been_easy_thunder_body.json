@@ -1,0 +1,33 @@
+{
+  "title": "Must Have Been Easy",
+  "artist": "Thunder Body",
+  "notes": "",
+  "link": "https://open.spotify.com/track/1tUwv7dPdJGJ4BlCVROJJ0",
+  "tags": [
+    "American",
+    "F Major"
+  ],
+  "song": {
+    "sections": {
+      "verse": "F gm",
+      "intro/outro": "gm",
+      "chorus": "F gm",
+      "bridge": "F Bb F gm",
+      "instrumental" : "F gm"
+    },
+    "layout": [
+      {"id": 1, "section": "intro/outro"},
+      {"id": 2, "section": "instrumental"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "verse"},
+      {"id": 5, "section": "chorus"},
+      {"id": 6, "section": "bridge"},
+      {"id": 7, "section": "instrumental"},
+      {"id": 8, "section": "verse"},
+      {"id": 9, "section": "chorus"},
+      {"id": 10, "section": "instrumental"},
+      {"id": 11, "section": "bridge"},
+      {"id": 12, "section": "intro/outro"}
+    ]
+  }
+}
