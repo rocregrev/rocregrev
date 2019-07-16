@@ -1,0 +1,27 @@
+{
+  "title": "Addicted",
+  "artist": "Katchafire",
+  "notes":"This song is the same chord progression throughout.",
+  "link": "https://www.youtube.com/watch?v=UJya3RnyyL0",
+  "tags": [
+    "NZ",
+    "C Major"
+  ],
+  "song": {
+    "sections": {
+      "chorus": "am G C",
+      "verse": "am G C",
+      "instrumental" : "am G C"
+    },
+    "layout": [
+      {"id": 1, "section": "instrumental"},
+      {"id": 2, "section": "verse"},
+      {"id": 3, "section": "chorus"},
+      {"id": 4, "section": "instrumental"},
+      {"id": 5, "section": "verse"},
+      {"id": 6, "section": "chorus"},
+      {"id": 7, "section": "chorus"},
+      {"id": 8, "section": "instrumental"}
+    ]
+  }
+}
