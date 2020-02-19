@@ -5,15 +5,14 @@ This website serves as a resource for the musicians involved with the event.
 
 If you have a problem with your music being represented on my site, please don't hesitate to contact me.
 
+##Create Virtual Environment
+python3 -m venv rocregrev_env
 
-steps to generate static website yourself:
+##Activate virtual env
+source rocregrev_env/bin/activate
 
-install virtualenvwrapper
+##Install deps
+pip install -r requirements.txt
 
-sudo apt-get install virtualenvwrapper
-
-mkvirtualenv -p $(which python3) rocregrev
-
-pip install jinja2
-
-python generator.py
+##Generate Website
+python3 generator.py
