@@ -9,10 +9,10 @@
   ],
   "song": {
     "sections": {
-      "chorus": "bbm bbm ebm ebm | ebm F bbm bbm",
-      "verse": "bbm bbm ebm ebm | ebm F bbm bbm",
-      "instrumental": "bbm bbm ebm ebm | ebm F bbm bbm",
-      "breakdown" : "ebm bbm | ebm bbm | ebm bbm | ebm F"
+      "chorus": "bbm bbm ebm ebm | ebm fm bbm bbm",
+      "verse": "bbm bbm ebm ebm | ebm fm bbm bbm",
+      "instrumental": "bbm bbm ebm ebm | ebm fm bbm bbm",
+      "breakdown" : "ebm bbm | ebm bbm | ebm bbm | ebm fm"
     },
     "layout": [
       {"id": 1, "section": "instrumental"},
